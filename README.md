@@ -2,9 +2,9 @@
 
 # 👋 zw-onemaker-ai
 
-**AI 应用工程师 · 一人公司产品工厂**
+**AI 应用工程师 · AI 工程化交付系统**
 
-用多 Agent 管线把「一个人做产品」跑成流水线：需求 → 设计 → 代码 → 验证 → 上线
+用多 Agent 工程管线，把产品交付跑成标准化流水线：需求 → 设计 → 代码 → 验证 → 上线
 
 <sub>Building reliable multi-agent pipelines — so every step of AI collaboration can be trusted.</sub>
 
