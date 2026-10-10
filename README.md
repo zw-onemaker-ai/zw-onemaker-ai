@@ -14,6 +14,19 @@
 
 ## 🛡️ 精选项目
 
+### [OneMaker Pipeline](https://github.com/zw-onemaker-ai/onemaker-pipeline) — AI 工程化交付系统
+
+> **把完整工程团队的工序编进一条多 Agent 管线** — 14 角色 · 质量门禁 · EXIT_CODE 指纹 · 定向回环 · 三层记忆
+
+[![CI](https://github.com/zw-onemaker-ai/onemaker-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/zw-onemaker-ai/onemaker-pipeline/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+- 🏭 **14 角色管线** — 需求 → 设计 → 开发 → 验证 → 上线，角色隔离、按需加载
+- 🚪 **三道验证闸门** — 文件存在 · EXIT 指纹 · 脱敏检查，不通过不路由
+- 🔁 **定向回环** — 按问题类型回退到对应角色（Bug→开发 / 架构→产品 / 安全→安全）
+- 🧠 **三层记忆** — 硬上限 + 自动裁剪 + 快照保险
+- 📦 **3 个零依赖演示** — 5 分钟看完整条管线怎么跑
+
 ### [AgentGate](https://github.com/zw-onemaker-ai/agent_gate) — 多 Agent 管线可靠性操作系统
 
 > **「Agent 管编，闸门管信」** — 主流多 Agent 框架默认「Agent 产出可信」；AgentGate 默认「不可信，验证过才算」。
