@@ -14,6 +14,18 @@
 
 ## 🛡️ 精选项目
 
+### [x402-seller-starter](https://github.com/zw-onemaker-ai/x402-seller-starter) — 面向 AI Agent 的付费 API 生产级骨架
+
+> **把一次真实上线踩过的坑，做成了开箱闸门** — Express + x402 · Base USDC 按次收款 · 预检脚本 · 发现层入册清单
+
+[![CI](https://github.com/zw-onemaker-ai/x402-seller-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/zw-onemaker-ai/x402-seller-starter/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+- 💰 **收款引擎** — x402 协议：账单即价签，机器买家直接付费（Base 主网 USDC）
+- 🚪 **预检闸门** — 五类静默杀手开箱即检：账单截断 / 字段超长 / HEAD 泄漏 / 缺输出 schema
+- 📇 **发现层清单** — Agent 与目录实际会看的五个入口，照着入册
+- 📖 **十条实战笔记** — 每一条都对应仓库里的一道闸门
+
 ### [OneMaker Pipeline](https://github.com/zw-onemaker-ai/onemaker-pipeline) — AI 工程化交付系统
 
 > **把完整工程团队的工序编进一条多 Agent 管线** — 14 角色 · 质量门禁 · EXIT_CODE 指纹 · 定向回环 · 三层记忆
